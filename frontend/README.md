@@ -33,6 +33,11 @@ A React-based frontend for interacting with local Large Language Models (LLMs) t
    ```
 3. Ensure you have the backend service running at `http://localhost:8000`
 
+## Screenshot:
+![alt text](images/llm-prompting-form.png)
+
+![alt text](images/llms-interactions-search.png)
+
 ## Running the Application
 
 ```bash
